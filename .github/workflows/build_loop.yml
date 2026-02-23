@@ -220,7 +220,6 @@ jobs:
           now_line \
           watch_title \
           meal_days \
-          meal_week \
           profiles \
           negative_insulin \
           remote_window
